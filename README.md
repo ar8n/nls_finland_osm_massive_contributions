@@ -1,7 +1,5 @@
 # Massive data contributions from the National Land Survey of Finland to the OpenStreetMap Database :earth_africa:
-Hello and welcome :blush:! Here you will find the relevant code and visualizations I created during my internship, as well as the corresponding report that gives more insight into the work I did during my 3-month stay in Espoo (Finland). Due to its large size, all data used and created has been hosted on an external cloud service, which can be accessed via the link below.
-
-## :inbox_tray: Raw data & created data downloading
+Hello and welcome :blush:! Here you will find the relevant code and visualizations I created during my internship, as well as the corresponding report that gives more insight into the work I did during my 3-month stay in Espoo (Finland). Due to its large size, all data used and created has been hosted on an external cloud service, which are available upon request.
 
 ## Abstract
 The Finnish Geospatial Research Institute (FGI) is located in the city of Espoo, west of the capital city of Helsinki. It conducts innovative research and expert work in the field of spatial data, and more specifically, deals with — interoperable web services, technical standards and harmonization of spatial data — which are the core areas of the Geoinformatics and Cartography department in which I train.
